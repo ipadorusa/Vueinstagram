@@ -8,7 +8,7 @@ import TagSearch from '@/components/TagSearch'
 Vue.use(Router)
 
 const router = new Router({
-  mode: 'history',
+  mode: 'hash',
   routes: [
     {
       path: '/',
