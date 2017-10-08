@@ -1,5 +1,7 @@
 # vue-instagram
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/ipadorusa/Vueinstagram.svg)](https://greenkeeper.io/)
+
 > A Vue.js project
 
 ## Build Setup
